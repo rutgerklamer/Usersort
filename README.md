@@ -43,7 +43,7 @@ $(document).ready(function () {
 });
 ```
 
-This is the code for the example on the website [Usersort](https://usersort.rutgerklamer.nl)
+This is the code for the example on the website [Usersort](http://usersort.rutgerklamer.nl)
 
 ```javascript
 $(document).ready(function () {
