@@ -9,8 +9,8 @@ Add these three scripts, the stylesheet is optionally
 ```html
 <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-<script src="usersort.js"></script>
-<link rel="stylesheet" href="userstyle.css">
+<script src="https://rutgerklamer.nl/usersort.js"></script>
+<link rel="stylesheet" href="https://rutgerklamer.nl/userstyle.css">
 ```
 
 To make sure usersort get's executed correctly we need to use it in a document ready function
