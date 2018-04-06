@@ -1,2 +1,1 @@
-*.css           text
-*.html          text
+*.html linguist-vendored=true
